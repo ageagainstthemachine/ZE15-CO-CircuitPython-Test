@@ -55,9 +55,7 @@ Byte0   Byte1   Byte2   Byte3   Byte4   Byte5   Byte6   Byte7   Byte8
 | **[CHK]** | Checksum |
 
 **CO Concentration Formula:**  
-\[
-\text{CO ppm} = (\text{HIGH} \times 256 + \text{LOW}) \times 0.1
-\]
+CO ppm = (HIGH * 256 + LOW) * 0.1
 
 Example:  
 ```
