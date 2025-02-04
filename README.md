@@ -63,7 +63,7 @@ Received Data: ['0xFF', '0x04', '0x03', '0x01', '0x00', '0x05', '0x13', '0x88', 
 ```
 - **HIGH = `0x00` (0 in decimal)**
 - **LOW = `0x05` (5 in decimal)**  
-- **CO ppm = (0 x 256 + 5) x 0.1 = 0.5 ppm**
+- **CO ppm = (0 * 256 + 5) * 0.1 = 0.5 ppm**
 
 **Question & Answer Mode (Planned)**
 - The microcontroller sends a **command request** to the sensor.
