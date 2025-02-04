@@ -88,7 +88,7 @@ Received Data: ['0xFF', '0x04', '0x03', '0x01', '0x00', '0x05', '0x13', '0x88', 
 1. Install **CircuitPython** on the Raspberry Pi Pico. ([Guide](https://circuitpython.org/board/raspberry_pi_pico/))
 2. Copy `code.py` to the Pico.
 3. Open a serial terminal (Mu Editor, Thonny, or screen).
-4. View CO ppm readings updated every second.
+4. View CO ppm readings which update every second.
 
 ---
 
